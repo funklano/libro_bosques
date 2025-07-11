@@ -1,2 +1,7 @@
 system("git remote add origin https://github.com/funklano/libro_bosques.git")
 system("git add .")
+system('git config --global user.name "Roy Rubio"')
+system('git config --global user.email "rrubio106@gmail.com"')
+system("git config --global --list")
+system('git commit -m "Inicialización del libro"')
+system("git push -u origin main")
