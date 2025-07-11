@@ -1,10 +1,19 @@
 # Hello bookdown 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+Hi, this is a new book about somethings that you don't expected them.
 
 ## A section
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+# Capítulo 1: Introducción al bosque
+
+Los bosques tropicales albergan gran parte de la biodiversidad mundial.
+
+## ¿Qué veremos en este capítulo?
+
+- Funciones ecológicas
+- Estructura vertical
+- Ciclos del carbono
+
 
 ### An unnumbered section {-}
 

@@ -8,6 +8,8 @@ render-book
 preview-book
 hello-bookdown
 a-section
+capítulo-1-introducción-al-bosque
+qué-veremos-en-este-capítulo
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
