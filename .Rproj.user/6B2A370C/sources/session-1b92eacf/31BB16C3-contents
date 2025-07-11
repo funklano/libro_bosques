@@ -1,0 +1,2 @@
+system("git remote add origin https://github.com/funklano/libro_bosques.git")
+system("git add .")
